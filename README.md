@@ -36,5 +36,7 @@
     <li>Anyone building or studying compact chess logic</li>
   </ul>
   
+  ![image](https://github.com/user-attachments/assets/0c199235-d887-4e03-8440-c1a405c52321)
+
 </body>
 </html>
